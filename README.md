@@ -16,3 +16,5 @@ A simple windows forms app to run some basic actions across lists
 To install and run the application, follow these steps:
 
 1. Grab the files from the Release... Run the app ListCompareV2.exe
+
+## UI
