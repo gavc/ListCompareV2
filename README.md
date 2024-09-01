@@ -18,3 +18,4 @@ To install and run the application, follow these steps:
 1. Grab the files from the Release... Run the app ListCompareV2.exe
 
 ## UI
+![Listdotnet UI Image](https://github.com/gavc/ListCompareV2/blob/master/listdotnet.png)
